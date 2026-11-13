@@ -1,0 +1,7 @@
+Instancia EC2 destruida con IP 3.236.253.23 
+Instancia EC2 creada con IP 23.20.139.230 
+Instancia EC2 destruida con IP 23.20.139.230 
+Instancia EC2 creada con IP 34.207.157.82 
+Instancia EC2 destruida con IP 13.218.204.183 
+Instancia EC2 creada con IP 18.207.246.206 
+Instancia EC2 destruida con IP 18.207.246.206 

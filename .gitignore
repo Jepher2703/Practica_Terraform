@@ -1,0 +1,10 @@
+# Archivos de estado de Terraform
+*.tfstate
+*.tfstate.*
+
+# Llaves privadas y credenciales
+*.pem
+
+# Directorios de Terraform local
+.terraform/
+.terraform.lock.hcl
